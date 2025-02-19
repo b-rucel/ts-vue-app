@@ -91,7 +91,7 @@ const toggleDark = useToggle(isDark)
           </CardDescription>
         </CardHeader>
         <CardContent class="bg-muted p-4 px-6 rounded-md font-mono text-sm">
-          <pre>npx degit https://github.com/b-rucel/js-vue-app new-project
+          <pre>npx degit https://github.com/b-rucel/ts-vue-app new-project
 
 cd new-project
 npm install
