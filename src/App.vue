@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
 import { Button } from '@/components/ui/button'
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "@/components/ui/card"
 import { GithubIcon, CodeIcon, BookOpenIcon, RocketIcon, SunIcon, MoonIcon } from 'lucide-vue-next'
